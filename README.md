@@ -9,10 +9,6 @@
 
 <br>
 
-<img src="https://github.com/fabioacarvalho/todo-logfy/assets/84592352/07f84fb2-67da-44bf-bea5-36e61c4c7d69">
-
-<br>
-
 <img src="https://github.com/fabioacarvalho/todo-logfy/assets/84592352/fbeb0028-b33e-411b-a885-8905208906d9">
 
 <br>
