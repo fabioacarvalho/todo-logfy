@@ -5,15 +5,15 @@
 
 # Fronend
 
-<img arc="https://github.com/fabioacarvalho/todo-logfy/blob/main/frontend/src/assets/img/logfy_2.png?raw=true">
+<img src="https://github.com/fabioacarvalho/todo-logfy/blob/main/frontend/src/assets/img/logfy_2.png?raw=true">
 
 <br>
 
-<img arc="https://github.com/fabioacarvalho/todo-logfy/assets/84592352/07f84fb2-67da-44bf-bea5-36e61c4c7d69">
+<img src="https://github.com/fabioacarvalho/todo-logfy/assets/84592352/07f84fb2-67da-44bf-bea5-36e61c4c7d69">
 
 <br>
 
-<img arc="https://github.com/fabioacarvalho/todo-logfy/assets/84592352/fbeb0028-b33e-411b-a885-8905208906d9">
+<img src="https://github.com/fabioacarvalho/todo-logfy/assets/84592352/fbeb0028-b33e-411b-a885-8905208906d9">
 
 <br>
 
