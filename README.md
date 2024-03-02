@@ -5,7 +5,7 @@
 
 # Fronend
 
-<img arc="https://github.com/fabioacarvalho/todo-logfy/blob/main/frontend/src/assets/img/logfy_1.png?raw=true">
+<img arc="https://raw.githubusercontent.com/fabioacarvalho/todo-logfy/main/frontend/src/assets/img/logfy_2.png">
 
 <br>
 
